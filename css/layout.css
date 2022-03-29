@@ -1,3 +1,36 @@
 body{
     background-color:#c9dff2;
+    /* background-image: url(https://cdn.jsdelivr.net/gh/Codebglh/bimg/Picsee/iTab-9mg17wPgP3Je.jpeg); */
+    /* background-attachment: fixed; */
+    padding: 0 0;    
+    margin: 0 0;
+}
+h1{
+    color: rgb(38, 219, 165);
+    text-align: center;
+}
+#tubiao{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+#liebiao{
+    height: 100%;
+    width: 80%;
+    float: left;
+}
+ul{
+    height: 100%;
+    width: 80%;
+    padding: 0 0 0 0;    
+    margin: 0 0 0 0;
+}
+li{
+    list-style-type: none;
+    display:inline-block;
+}
+.daohanglan{
+    height: 20%;
+    width: 100%;
+    display:inline-block;
 }
